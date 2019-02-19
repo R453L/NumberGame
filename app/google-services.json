@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620299118298",
+    "firebase_url": "https://numbergame-871a3.firebaseio.com",
+    "project_id": "numbergame-871a3",
+    "storage_bucket": "numbergame-871a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620299118298:android:4fa2ee814efb5c48",
+        "android_client_info": {
+          "package_name": "com.example.rasel.numbergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620299118298-1inaaddicko5o042k4rh6dhrvu5sdf0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rasel.numbergame",
+            "certificate_hash": "c9f5a9d3538def4cf6256464cd1fb756f84f705c"
+          }
+        },
+        {
+          "client_id": "620299118298-dk00v4kos41cmkls3lab87kicv1gglnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMI1nkFDuAxxxXry8WADdBjApZ7CH-8Do"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620299118298-dk00v4kos41cmkls3lab87kicv1gglnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
